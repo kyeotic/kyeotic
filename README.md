@@ -3,5 +3,11 @@
 ###
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="metrics" />
+  <img src="./github-metrics-isocalendar.svg" alt="isocalendar" />
+  <br/>
+  <img src="./github-metrics-stats.svg" alt="stats" />
+  <br/>
+  <img src="./github-metrics-traffic.svg" alt="traffic" />
+  <br/>
+  <img src="./github-metrics-habits.svg" alt="habits" />
 </div>
