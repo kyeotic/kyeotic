@@ -5,5 +5,5 @@
 <div align="center">
   <img src="./github-metrics-isocalendar.svg" alt="isocalendar" width="100%" />
   <img src="./github-metrics-stats.svg" alt="stats" width="100%" />
-  <img src="./github-metrics-traffic.svg" alt="traffic" width="100%" />
+
 </div>
