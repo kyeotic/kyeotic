@@ -3,6 +3,5 @@
 ###
 
 <div align="center">
-  <img src="./github-metrics-stats.svg" alt="stats" />
-  <img src="./github-metrics-langs.svg" alt="languages" />
+  <img src="./github-metrics.svg" alt="metrics" />
 </div>
